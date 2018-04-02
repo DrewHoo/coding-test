@@ -1,5 +1,6 @@
 ## Run the code
-Note: This code was developed with Python 3.6 on Mac OS
+Note: This code was developed with Python 3.6 on Mac OS  
+
 0) Follow the instructions in the README at the root of the project
 1) Type `python api_interaction/todo.py` into the shell
 

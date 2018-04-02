@@ -1,5 +1,6 @@
 ## Run the code
 Note: This code was developed with Python 3.6 on Mac OS
+
 0) Follow the instructions in the README at the root of the project.
 1) To run the code, type `python algorithms/string_permutations.py` `path/to/your/input/file`
 ## Run the tests
