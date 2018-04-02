@@ -1,0 +1,2 @@
+## Notes
+You can find the models for tables in database_design/models. If I'd had more time, I would have set up automated testing for this. I used the peewee ORM to create the models and ran some queries in the mysql shell to test that these tables worked for the use case. If you'd like to run the test file, you just have to create a mysql table called 'blog', and edit the user/password/host info in each file to match your machine.

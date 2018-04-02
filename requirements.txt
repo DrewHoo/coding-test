@@ -1,0 +1,4 @@
+peewee==3.2.2
+PyMySQL==0.8.0
+pytest==3.5
+requests==2.18.4
